@@ -1,7 +1,8 @@
-const CACHE_NAME = "trainingsprotokoll-v1";
+const CACHE_NAME = "trainingsprotokoll-v2";
 const ASSETS = [
   "./",
   "./index.html",
+  "./fonts/fonts.css",
   "./manifest.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
